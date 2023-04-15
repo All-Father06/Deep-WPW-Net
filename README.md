@@ -45,7 +45,7 @@ bash
 
 Python
 
-Note : Vreate a folder titled "Uploads" inside the repository after cloning it locally.
+Note : Create a folder titled "Uploads" inside the repository after cloning it locally.
 
 ## Results
 Evaluation Parameters for WPWSD-Net-6 software:
