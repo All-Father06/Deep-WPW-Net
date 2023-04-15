@@ -44,7 +44,8 @@ Install all the required libraries for the software by executing the following c
 ## Usage
 
   Python
-
+ 
+ Note: Create a new folder titled 'Uploads' for different detected patients models.
 
 ## Results
 Evaluation Parameters for WPWSD-Net-6 software:
@@ -63,6 +64,3 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
