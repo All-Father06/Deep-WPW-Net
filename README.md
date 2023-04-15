@@ -36,10 +36,10 @@ Model deployment: The final step is to deploy the trained model as a software ap
 
 Install all the required libraries for the software by executing the following commands in Command Prompt: 
 
-bash
+```bash
 1. pip freeze > requirements.txt
 2. pip install -r requirements.txt
-
+```
 
 ## Usage
 
